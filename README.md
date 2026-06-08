@@ -50,10 +50,6 @@ Sense → Process → Transmit → Store & Analyze → Act
 - 🚗 Smart Transport
 - 🏙️ Smart City
 
----
-
-## 📸 Screenshot
-![Task 1 Preview](screenshots/task1_preview.png)
 
 ---
 
